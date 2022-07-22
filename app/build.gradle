@@ -9,8 +9,8 @@ android {
         applicationId "com.myapp.app118"
         minSdk 22
         targetSdk 32
-        versionCode 1
-        versionName "1.0"
+        versionCode 202
+        versionName "202.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
